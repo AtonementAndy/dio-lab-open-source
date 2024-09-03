@@ -5,7 +5,7 @@
   <div>
     <h2>Oi, Meu nome é André 🐢</h2>
 
-    Sou missionário cristão e estudante de programação, apesar de ja ter atuado como Desenvolvedor .NET Junior em uma empresa do Rio de Janeiro. Meu desejo é retornar para esta área que muito me alegra.
+    Sou missionário cristão e estudante de programação, apesar de já ter atuado como Desenvolvedor .NET Junior em uma empresa do Rio de Janeiro, meu desejo é retornar para esta área que muito me alegra.
   </div>
 
   <div style="text-align: center;">
@@ -17,9 +17,9 @@
 
   <div style="text-align: center;">
     <h2>GitHub Stats</h2>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlannTorres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=0D1117"
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AtonementAndy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=0D1117"
       alt="Estatísticas do GitHub de Alan Torres" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlannTorres&layout=compact&langs_count=7&theme=github_dark&border_color=0D1117"
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtonementAndy&layout=compact&langs_count=7&theme=github_dark&border_color=0D1117"
       alt="Linguagens mais usadas de Alan Torres" />
   </div>
 
